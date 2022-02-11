@@ -1,3 +1,6 @@
+//Code adapted and modified for Serial Connection to Arduino from 
+//https://github.com/JoeMWatson/Processing/blob/master/Kinect4WinExample/Kinect4WinExample.pde
+
 import kinect4WinSDK.*;
 
 import processing.serial.*;
